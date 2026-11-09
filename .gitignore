@@ -1,0 +1,15 @@
+# Credenciais reais
+.env
+
+# Arquivos de sistema / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Temporários / logs
+*.log
+*.tmp
+*.bak
+uploads/tmp/
